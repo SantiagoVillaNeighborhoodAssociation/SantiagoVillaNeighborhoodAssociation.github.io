@@ -35,4 +35,4 @@ Space Park will be divided into two unequal lanes between Shoreline and Santiago
 
 - The Inigo extension from La Avenida to Pear to Space Park will create additional access to and from the mobile home park.
 - The infrastructure renovation is likely to stop the seasonal flooding to the front of the park.
-- The eventual realignment of Plymouth with Space Park should add a stoplight at the corner of Shoreline and S[ace Park.
+- The eventual realignment of Plymouth with Space Park should add a stoplight at the corner of Shoreline and Space Park.
