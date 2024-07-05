@@ -11,22 +11,20 @@ draft = false
 
 +++
 
-In the summer of 2024, Sobrato will be grinding down Space Park Way and putting down new asphalt after renovating underground infrastructure for the new apartments. Completion of the project is scheduled for August 31, 2024.
+## Space Park Way Renovation
 
-The renovation is expected to take 2 or 3 weeks. During that time, the construction team intends to keep two-thirds of the street open so that Santiago Villa residents can continue to enter and exit the park.
+This summer, Sobrato will be grinding down Space Park Way and putting down new asphalt after renovating the infrastructure underground. The project is scheduled for completion by August 31, 2024. 
 
-### What you need to know
+### Parking will not be permitted on the north side of the street from July 15 through August 29.
 
-- No Parking signs will be posted along the entire street, but parking will be restored after the project is completed.
-- The renovation should help reduce the flooding in the front of our park.
-- Inigo is being extended from Pear, resulting in access for the new apartments, and a connection between Space Park and La Avenida.
+Elimination of parking will make it possible to keep two-thirds of the street open so that Santiago Villa residents can continue to enter and exit the park. The local construction team will direct traffic and handle parking lot access for the occupants of the buildings on that side. Street parking will be restored after the project is completed.
 
 #### Conditions during construction
 
 Space Park will be divided into two unequal lanes between Shoreline and Santiago Villa.
 
 - The narrow south lane (closest to Pear Village) will be inaccessible due to underground infrastructure reconstruction.
-  - Excavation will be about 18 inches deep, but will not extend to the Shashi hotel.
+  - Excavation will be about 18 inches deep along the south side, but will not extend to the Shashi hotel.
   - Although underground pipes have already been replaced and repaired, those closest to the park have to be reconfigured to descend about six inches down from the ones in the park.
 
 - The north lane is expected to be wide enough to manage two lanes of cars, providing entry and exit for mobile home residents.
@@ -35,6 +33,6 @@ Space Park will be divided into two unequal lanes between Shoreline and Santiago
 
 ## Expected Benefits for Santiago Villa
 
-- Space Park Way will be completely repaved.
 - The Inigo extension from La Avenida to Pear to Space Park will create additional access to and from the mobile home park.
-- The infrastructure renovation is likely to stop the annual flooding to the front of the park.
+- The infrastructure renovation is likely to stop the seasonal flooding to the front of the park.
+- The eventual realignment of Plymouth with Space Park should add a stoplight at the corner of Shoreline and Space Park.
