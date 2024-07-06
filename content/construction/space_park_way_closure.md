@@ -11,8 +11,6 @@ draft = false
 
 +++
 
-## Space Park Way
-
 This summer, Sobrato will be grinding down Space Park Way and putting down new asphalt after renovating infrastructure underground. The project is scheduled for completion by August 31, 2024.
 
 ### No Parking on Space Park Way during the project
