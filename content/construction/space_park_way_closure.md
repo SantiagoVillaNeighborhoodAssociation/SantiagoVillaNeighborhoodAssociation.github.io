@@ -11,13 +11,15 @@ draft = false
 
 +++
 
-## Space Park Way Renovation
+## Space Park Way
 
-This summer, Sobrato will be grinding down Space Park Way and putting down new asphalt after renovating the infrastructure underground. The project is scheduled for completion by August 31, 2024. 
+This summer, Sobrato will be grinding down Space Park Way and putting down new asphalt after renovating infrastructure underground. The project is scheduled for completion by August 31, 2024.
 
-### Parking will not be permitted on the north side of the street from July 15 through August 29.
+### No Parking on Space Park Way during the project
 
-Elimination of parking will make it possible to keep two-thirds of the street open so that Santiago Villa residents can continue to enter and exit the park. The local construction team will direct traffic and handle parking lot access for the occupants of the buildings on that side. Street parking will be restored after the project is completed.
+Parking will not be permitted on Space Park Way from July 15 to August 29. Elimination of parking will make it possible to keep two-thirds of the street open so that Santiago Villa residents can continue to enter and exit the park.
+
+The local construction team will direct traffic and handle parking lot access for the occupants of the buildings on that side. Street parking will be restored after the project is completed.
 
 #### Conditions during construction
 
