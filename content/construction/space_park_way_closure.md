@@ -17,7 +17,7 @@ This summer, Sobrato will be grinding down Space Park Way and putting down new a
 
 ## No Parking on Space Park Way
 
-Parking will not be permitted on Space Park Way from July 15 to August 29. Elimination of parking will make it possible to keep two-thirds of the street open so that Santiago Villa residents can continue to enter and exit the park.
+Parking will not be permitted on Space Park Way on the north side from July 15 to August 29. On the south side, there will be no parking from July 15 to July 20, and from August 23 to August 30. Elimination of parking will make it possible to keep two-thirds of the street open so that Santiago Villa residents can continue to enter and exit the park.
 
 The local construction team will direct traffic and handle parking lot access for the occupants of the buildings on that side. Street parking will be restored after the project is completed.
 
