@@ -14,7 +14,7 @@ weight = 30
 
 Our neighborhood, North Bayshore, has been changing steadily over the last few decades. Shoreline Park opened in 1983; it was built on landfill that used to be the city dump. Santiago Villa was built in the 1960s, when farms, orchards, and small ranch homes populated the neighborhood.
 
-North Bayshore became Google headquarters starting in 2003, and over time the company added about 50 office buildings. The City Council realized that the area needed to be redeveloped to support a much larger population, in 2014, the City's planners developed the North Bayshore Precise Plan. This plan defined their vision for the new neighborhood, including areas to be developed for residential housing, and those that needed to be maintained as parks and environmental habitats.
+North Bayshore became Google headquarters starting in 2003, and over time the company added about 50 office buildings. The City Council realized that the area needed to be redeveloped to support a much larger population, so in 2014, the City's planners developed the North Bayshore Precise Plan. This plan defined their vision for the new neighborhood, including areas to be developed for residential housing, and those that needed to be maintained as parks and environmental habitats.
 
 ### A New City
 
@@ -40,7 +40,7 @@ There is no parking on La Avenida, so the project includes an internal vehicle s
 
 Google's Real Estate and Workplace Services (REWS) created a large, complex plan for three new neighborhoods in North Bayshore. The company planned to build about 7000 new apartments on Shorebird, Pear, and Joaquin over at least two decades. The new developments were designed to include amenities, services, and stores. They also planned to include a new elementary school.
 
-After the global pandemic, those plans had to be changed. REWS is now reevaluating the project.
+After the global pandemic, those plans had to be changed. [REWS is now reevaluating the project](./google_north_bayshore.md).
 
 #### SyWest Development of the Gateway
 
