@@ -18,7 +18,7 @@ North Bayshore became Google headquarters starting in 2003, and over time the co
 
 ### A New City
 
-Over the last decade, we have seen major changes. Many new residential projects have been planned and approved by the City, and in the next decade, we are going to see a small city​ growing up around us. 
+Over the last decade, we have seen major changes. Many new residential projects have been planned and approved by the City, and in the next decade, we are going to see a small city​ growing up around us.
 
 There are four major developments being planned by the Sobrato Organization, Eden Housing, Google Real Estate and Workplace Services, and SyWest Development LLC.
 
