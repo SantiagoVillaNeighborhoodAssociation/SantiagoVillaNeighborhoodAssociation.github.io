@@ -5,7 +5,14 @@ description = "Temporary Closure for Sobrato Construction"
 weight = 10
 draft = false
 slug = "space_park_way_repaving"
-aliases = ['/space_park_way', '/SpaceParkWay', '/space-park-way', 'space_park_way_closure']
+aliases = [
+  '/space_park_way',
+  '/Space_Park_Way',
+  '/spaceparkway',
+  '/SpaceParkWay',
+  '/space-park-way',
+  '/Space-Park-Way',
+  'space_park_way_closure']
 
 [menus.main]
     parent = 'Development'
