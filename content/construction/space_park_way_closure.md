@@ -5,7 +5,7 @@ description = "Temporary Closure for Sobrato Construction"
 weight = 10
 draft = false
 slug = "space_park_way_repaving"
-aliases = ['/space_park_way']
+aliases = ['/space_park_way', '/SpaceParkWay', '/space-park-way', 'space_park_way_closure']
 
 [menus.main]
     parent = 'Development'
@@ -21,7 +21,7 @@ Parking will not be permitted on Space Park Way on the north side from July 15 t
 
 The local construction team will direct traffic and handle parking lot access for the occupants of the buildings on that side. Street parking will be restored after the project is completed.
 
-#### Conditions during construction
+### Conditions during construction
 
 Space Park will be divided into two unequal lanes between Shoreline and Santiago Villa.
 
