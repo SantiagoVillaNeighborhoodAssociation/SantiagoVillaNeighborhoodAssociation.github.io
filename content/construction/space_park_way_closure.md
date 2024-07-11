@@ -32,7 +32,7 @@ Space Park Way will remain open to car traffic, but parking will be severely res
 
 To park in this lot, you must display a special parking permit. You can get a permit from the Santiago Villa office, or you can email board@santiagovilla.org. One of your neighbors on the SVNA board will make sure you get your permit.
 
-> NOTE: Sobrato is providing this parkiong lot as a courtesy, just as they did for Google employees who previously parked there. They are not taking responsibility for any construction debris your car picks up in that lot.
+> NOTE: Sobrato is providing this parking lot as a courtesy, just as they did for Google employees who previously parked there. They are not taking responsibility for any construction debris your car picks up in that lot.
 
 On this side of the street, there will be no parking from July 15 to July 20, and from August 23 to August 30. If you don't reside in the park and don't have a permit, you might find a parking spot on the south side of Space Park Way outside of those dates.
 
