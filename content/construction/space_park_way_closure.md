@@ -36,6 +36,10 @@ To park in this lot, you must display a special parking permit. You can get a pe
 
 On this side of the street, there will be no parking from July 15 to July 20, and from August 23 to August 30. If you don't reside in the park and don't have a permit, you might find a parking spot on the south side of Space Park Way outside of those dates.
 
+## Local Discussion
+
+Join the neighborhood Google Group at SantiagoVilla.org/Subscribe to get updates and participate in conversations about the project. You can use the group to communicate via email with your neighbors and share information about any conditions or problems that may arise.
+
 ### Conditions during construction
 
 Space Park will be divided into two unequal lanes between Shoreline and Santiago Villa. A local construction team will direct traffic in both directions and into parking lots on both sides of the street.
