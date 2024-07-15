@@ -28,7 +28,7 @@ Space Park Way will remain open to car traffic, but parking will be severely res
 
 **If you park on Space Park Way, you must move your vehicle by Sunday, July 14, or it will be towed**. However, Sobrato has set aside 40 parking spaces in their own lot just for Santiago Villa residents. This temporary lot is close to the mobile home park on the south side of Space Park Way.
 
-![Santiago Villa Temporary Parking Lot](/construction/SPW_Parking_35pct.jpg)
+![Santiago Villa Temporary Parking Lot](</construction/SPW Parking 2.jpg>)
 
 
 To park in this lot, you must display a special parking permit. You can get a permit from the Santiago Villa office, or you can email board@SantiagoVilla.org. One of your neighbors on the SVNA board will make sure you get your permit.
