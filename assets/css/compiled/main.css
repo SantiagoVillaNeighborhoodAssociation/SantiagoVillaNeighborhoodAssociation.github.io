@@ -2129,6 +2129,10 @@ code {
   min-width: 2.4rem;
 }
 
+.max-w-2 {
+  max-width: 0.5rem;
+}
+
 .max-w-3xl {
   max-width: 48rem;
 }
@@ -2151,6 +2155,18 @@ code {
 
 .max-w-prose {
   max-width: 65ch;
+}
+
+.max-w-8 {
+  max-width: 2rem;
+}
+
+.max-w-2xl {
+  max-width: 42rem;
+}
+
+.max-w-xl {
+  max-width: 36rem;
 }
 
 .flex-auto {
@@ -2523,10 +2539,6 @@ code {
 
 .pt-8 {
   padding-top: 2rem;
-}
-
-.text-left {
-  text-align: left;
 }
 
 .text-center {
@@ -3004,10 +3016,6 @@ code {
 .dark\:bg-primary-900:is(.dark *) {
   --tw-bg-opacity: 1;
   background-color: rgba(var(--color-primary-900), var(--tw-bg-opacity));
-}
-
-.dark\:bg-neutral-700\/50:is(.dark *) {
-  background-color: rgba(var(--color-neutral-700), 0.5);
 }
 
 .dark\:text-neutral:is(.dark *) {
