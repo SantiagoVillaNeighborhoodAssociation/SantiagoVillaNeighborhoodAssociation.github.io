@@ -24,6 +24,7 @@ name = "June Coffee Klatsch ☕"
 [[event]]
 date = 2024-09-07T09:30:00
 name = "September Coffee Klatsch ☕"
+canceled = "Canceled due to repaving project"
 
 [[event]]
 date = 2024-09-18T18:30:00
