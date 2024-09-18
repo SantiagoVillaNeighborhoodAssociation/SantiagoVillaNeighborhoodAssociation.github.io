@@ -27,9 +27,18 @@ name = "September Coffee Klatsch ☕"
 canceled = "Canceled due to repaving project"
 
 [[event]]
-date = 2024-09-18T18:30:00
+date = 2024-09-18T18:30:00-08:00
 name = "September General Meeting 🍲"
+canceled = "Moved to November, also because of paving chaos"
 
 [[event]]
-date = 2024-10-05T09:30:00
+date = 2024-10-05T09:30:00-08:00
 name = "October Coffee Klatsch ☕"
+
+[[event]]
+date = 2024-10-31T17:00:00-08:00
+name = "Halloween Klatsch 🎃💀🦇👻"
+
+[[event]]
+date = 2024-11-13T18:30:00-08:00
+name = "November General Meeting 🍲"
