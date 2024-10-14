@@ -1,4 +1,4 @@
-<div class="columns-4 gap-1">
+<div {{ with .Get "class" }} class="columns-4 gap-1 {{ . }}" {{ else }} class="columns-4 gap-1" {{ end }}>
   {{ with .Page }}
     {{- $images := .Resources.ByType "image" }}
     {{- $numberedOnly := $images.Match "*[0-9].{jpg,png,webp}" }}
