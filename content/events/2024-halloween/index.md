@@ -42,7 +42,7 @@ To volunteer, fill out [this form](https://forms.gle/Q324W86K6EDrbjBS8) or [emai
 
 ### Food preparation
 
-We especially need help making Halloween themed treats. Examples here. We strongly encourage creativity and making them yourself, as we tend to run out of homemade goods quickly and they are the ones people really appreciate. We can provide the ingredients if needed! Please let us know if you’re going to make something so we don’t have 2 people making the same thing. ♥️
+We especially need help making Halloween themed treats. [Examples here](https://docs.google.com/document/d/12rzCsex-IOuRtQ4aPW5l8SkyYQ_hQ9Wt7s3NhrI2G_8/edit?usp=sharing). We strongly encourage creativity and making them yourself, as we tend to run out of homemade goods quickly and they are the ones people really appreciate. We can provide the ingredients if needed! Please let us know if you’re going to make something so we don’t have 2 people making the same thing. ♥️
 
 ### Decorations
 
