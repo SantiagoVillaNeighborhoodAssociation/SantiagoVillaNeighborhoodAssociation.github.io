@@ -22,11 +22,13 @@ Halloween Sign Up Form!
 
 ## Where?
 
-Space Park and Armand, same as [last year](/events/2023-halloween)
+Your devilishly delightful Neighborhood Association invites you to creep on over to our haunted Halloween stand at the Coffee Klatsch spot (front of the park, Space Park & Armand) for a chillingly good time.
 
 ## When?
 
-Starting around 5PM on Halloween Night (October 31st)
+Halloween Night (October 31st)
+
+We'll materialize from 5 PM to 8 PM. Lurk by for some frightful fun! No costumes required, but highly encouraged.
 
 ## What?
 
@@ -36,4 +38,20 @@ Basically our Coffee Klatsch, but Spooky Scary.
 
 Want to help the SVNA put on an even bigger and spookier event this year?
 
-We're looking for neighbors who can help us prepare/plan. Please let us know at board@santiagovilla.org
+To volunteer, fill out [this form](https://forms.gle/Q324W86K6EDrbjBS8) or [email us](mailto:board@santiagovilla.org).
+
+### Food preparation
+
+We especially need help making Halloween themed treats. Examples here. We strongly encourage creativity and making them yourself, as we tend to run out of homemade goods quickly and they are the ones people really appreciate. We can provide the ingredients if needed! Please let us know if you’re going to make something so we don’t have 2 people making the same thing. ♥️
+
+### Decorations
+
+We’re looking to borrow decorations and props that would fit in a witch-themed tent or a mad scientist/laboratory/biohazard-themed tent. If you have these, please let us know!
+
+### Other
+
+Other ways to help are to make a beverage, serve in one of our themed tents, or help us set up or clean up. 
+
+----
+
+If you need a reminder of how much fun last year was, [pics here](/events/2023-halloween). See you there!
