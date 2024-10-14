@@ -3,7 +3,7 @@
     {{- $images := .Resources.ByType "image" }}
     {{- $numberedOnly := $images.Match "*[0-9].{jpg,png,webp}" }}
     {{ range $numberedOnly }}
-      <a href="{{ .RelPermalink }}">
+      <a class="not-prose" href="{{ .RelPermalink }}">
         <img
           class="object-contain w-[200px] h-auto my-2"
           src="{{ .RelPermalink }}"

@@ -1,5 +1,5 @@
 +++
-title = '🦇 2024 Halloween 👻'
+title = '🦇 Halloween 2024 👻'
 date = 2024-10-01T01:14:45-07:00
 description = "2024's Halloween Event, Incubating Now"
 draft = false
@@ -11,7 +11,7 @@ weight = 2
 
 [menu.main]
     parent = "Events"
-    name = "🦇 2024 Halloween 👻"
+    name = "👻 Halloween 2024 🦇"
 +++
 
 {{< button_halloween class="block text-4xl mb-8 mx-auto font-['Creepster','Butcherman','Copperplate','Impact','courier','Open_Sans']  text-center text-[black] bg-[orange] hover:!bg-orange-500 dark:bg-orange-800 dark:hover:!bg-orange-700 " href="https://forms.gle/Q324W86K6EDrbjBS8" target="_blank" >}}
