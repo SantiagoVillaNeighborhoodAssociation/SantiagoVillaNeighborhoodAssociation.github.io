@@ -3,39 +3,40 @@
 
 .drippies-container {
   position: absolute;
-  top: 0;
+  top: calc(100% - 5px);
   width: 100%;
-  left: 0;
-  right: 0;
-  transform: scaleY(0);
   transform-origin: top;
   z-index: -1;
-  transition: transform 3s ease-in-out;
 
-  a:hover ~ & {
-    transform: scaleY(1);
-    transition: transform 3s ease-in-out;
-  }
   svg {
     transition-property: color, background-color, border-color,
       text-decoration-color, fill, stroke;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
     transition-duration: 150ms;
-  }
-  svg {
-    fill: rgb(255 165 0/var(--tw-bg-opacity));
-    stroke: rgb(255 165 0/var(--tw-bg-opacity));
-  }
-  .dark & svg {
-    fill: #9a3412;
-    stroke: #9a3412;
+    animation: fade-out 1s forwards;
+    transform-origin: top;
   }
   a:hover ~ & svg {
-    fill: rgb(249 115 22/var(--tw-bg-opacity));
-    stroke: rgb(249 115 22/var(--tw-bg-opacity));
+    animation: drip-in 3s ease-in forwards;
   }
-  .dark a:hover ~ & svg {
-    fill: #c2410c;
-    stroke: #c2410c;
-  }
+}
+
+
+@keyframes drip-in {
+    from {
+        opacity: 1;
+        transform: scaleY(0);
+        transform-origin: top;
+    }
+    to {
+        transform: scaleY(1);
+    }
+}
+@keyframes fade-out {
+    from {
+        opacity:1;
+    }
+    to {
+        opacity: 0;
+    }
 }

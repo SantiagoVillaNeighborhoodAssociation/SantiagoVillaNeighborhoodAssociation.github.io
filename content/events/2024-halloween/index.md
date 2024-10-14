@@ -17,10 +17,10 @@ weight = 2
 {{< button_halloween class="block text-4xl mb-8 mx-auto font-['Creepster','Butcherman','Copperplate','Impact','courier','Open_Sans']  text-center text-[black] bg-[orange] hover:!bg-[#f97316] dark:bg-[#9a3412] dark:hover:!bg-[#c2410c] " href="https://forms.gle/Q324W86K6EDrbjBS8" target="_blank" >}}
 Halloween Sign Up Form! 
 {{< /button_halloween >}}
- 
-{{<gallery class="flex flex-row justify-evenly content-start">}} 
-  
-## Where? 
+
+{{<gallery class="flex flex-row justify-evenly content-start">}}
+
+## Where?
 
 Your devilishly delightful Neighborhood Association invites you to creep on over to our haunted Halloween stand at the Coffee Klatsch spot (front of the park, Space Park & Armand) for a chillingly good time.
 
@@ -55,3 +55,7 @@ Other ways to help are to make a beverage, serve in one of our themed tents, or 
 ----
 
 If you need a reminder of how much fun last year was, [pics here](/events/2023-halloween). See you there!
+
+----
+
+<a href="https://www.vecteezy.com/free-vector/blood">Blood Vectors by Vecteezy</a>
