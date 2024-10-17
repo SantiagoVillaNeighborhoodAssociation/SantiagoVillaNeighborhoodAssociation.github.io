@@ -9,6 +9,15 @@ feature = "*_1*"
 summary = "Jooooin Usssss"
 weight = 2
 
+aliases = [
+    '/halloween',
+    '/Halloween',
+    '/halloween-event',
+    '/Halloween-event',
+    '/Halloween-Event',
+    '/Halloween-party',
+]
+
 [menu.main]
     parent = "Events"
     name = "👻 Halloween 2024 🦇"
