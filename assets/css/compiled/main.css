@@ -2149,6 +2149,10 @@ code {
   max-width: 10rem;
 }
 
+.max-w-\[200px\] {
+  max-width: 200px;
+}
+
 .max-w-\[6rem\] {
   max-width: 6rem;
 }
@@ -2159,6 +2163,14 @@ code {
 
 .max-w-prose {
   max-width: 65ch;
+}
+
+.max-w-sm {
+  max-width: 24rem;
+}
+
+.max-w-\[400px\] {
+  max-width: 400px;
 }
 
 .flex-auto {

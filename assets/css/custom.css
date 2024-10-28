@@ -26,17 +26,19 @@
     from {
         opacity: 1;
         transform: scaleY(0);
-        transform-origin: top;
     }
     to {
+        opacity: 1;
         transform: scaleY(1);
     }
 }
 @keyframes fade-out {
     from {
         opacity:1;
+        transform: scaleY(1);
     }
     to {
         opacity: 0;
+        transform: scaleY(0);
     }
 }
