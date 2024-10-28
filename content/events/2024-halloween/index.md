@@ -29,9 +29,24 @@ Halloween Sign Up Form!
 
 {{<gallery class="flex flex-row justify-evenly content-start">}}
 
+## Join in the Scavenger Hunt!
+
+{{< figure
+    src="scavenger_hunt.png"
+    alt="Scavenger Hunt Printout"
+    href="/SVNAHalloweenHunt.pdf"
+    class="max-w-[400px]"
+    >}}
+
+### Need help navigating the park?
+
+Check out the [Park Map](/ParkMap.pdf)
+
 ## Where?
 
 Your devilishly delightful Neighborhood Association invites you to creep on over to our haunted Halloween stand at the Coffee Klatsch spot (front of the park, Space Park & Armand) for a chillingly good time.
+
+![Sign showing where the Halloween Party will be](./location_sign.jpg)
 
 ## When?
 
