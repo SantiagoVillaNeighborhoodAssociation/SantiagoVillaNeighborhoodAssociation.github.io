@@ -7,7 +7,7 @@ layout = "simple"
 showBreadcrumbs = true
 feature = "*_06*"
 summary = "The experiment was a sorcerous success"
-weight = 2
+weight = 5
 
 aliases = [
     '/halloween',
