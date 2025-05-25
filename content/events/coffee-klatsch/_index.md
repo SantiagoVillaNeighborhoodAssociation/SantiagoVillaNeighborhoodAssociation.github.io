@@ -4,7 +4,7 @@ date = 2024-04-06T01:14:27-07:00
 description = "Our flagship Santiago Villa Neighborhood Event, the Coffee Klatsch!"
 draft = false
 feature = "*_feature*"
-weight = 10
+weight = 1
 
 [cascade]
     categories = ['Events', 'Coffee Klatsch']
