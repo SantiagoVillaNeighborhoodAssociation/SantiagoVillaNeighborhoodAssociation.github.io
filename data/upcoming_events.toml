@@ -59,3 +59,16 @@ name = "May Coffee Klatsch ☕"
 [[event]]
 date = 2025-08-09T09:30:00-08:00
 name = "August Coffee Klatsch ☕"
+
+[[event]]
+date = 2025-09-13T09:30:00-08:00
+name = "September Coffee Klatsch ☕"
+
+[[event]]
+date = 2025-10-11T09:30:00-08:00
+name = "October Coffee Klatsch ☕"
+
+[[event]]
+date = 2025-10-31T17:00:00-08:00
+name = "SVNA Halloween Spooktacular 🎃💀🦇👻"
+
