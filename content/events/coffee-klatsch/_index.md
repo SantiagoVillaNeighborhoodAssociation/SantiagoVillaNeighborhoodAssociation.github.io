@@ -19,6 +19,8 @@ Coffee Klatsch is a lovely event that our Neighborhood Association does, about o
 
 They were originally on the first Saturday starting at 9am, though recently we've adjusted a bit to the schedules and needs of our community.
 
-To find out the dates of upcoming Klatsches, check the [Events](/events) page, keep an eye out for [emails](/join), and look for the signs around the entrances to the park during the preceding week.
+To find out the dates of upcoming Klatsches, check the list below, keep an eye out for [emails](/join), and look for the signs around the entrances to the park during the preceding week.
+
+{{< upcoming_events filter="Coffee Klatsch" >}}
 
 Check out some highlights from previous Klatsches 👇🏻

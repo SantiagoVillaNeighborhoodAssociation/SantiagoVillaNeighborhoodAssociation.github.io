@@ -1,10 +1,10 @@
+{{ $filter := .Get "filter"}}
 {{ range $allEvents := .Site.Data.upcoming_events }}
-  <div></div>
   <section class="px-4 py-2 mt-9 bg-neutral-100 dark:bg-neutral-700">
     <h2 class="my-0">Upcoming Events!</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
       {{ range sort $allEvents ".date" "asc" }}
-        {{ if ge (time .date).Unix now.Unix }}
+        {{ if (and (ge (time .date).Unix now.Unix) (or (not $filter) (in .name $filter))) }}
           <h3 {{if .canceled }} style="text-decoration:line-through;" {{ end }} class="mb-1 mt-4 col-span-1 content-end">{{ .name }}</h3>
           <span {{if .canceled }} style="text-decoration:line-through;" {{ end }} class=" col-span-1 content-end text-right">
             {{ .date | time.Format ":date_long" }} at
