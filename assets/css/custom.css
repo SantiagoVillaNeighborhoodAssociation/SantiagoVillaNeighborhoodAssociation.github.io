@@ -1,6 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Creepster&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Butcherman&family=Creepster&display=swap");
 
+/* Override width to give us some more room. */
+body main .max-w-prose {
+  max-width: 120ch;
+}
+
 .drippies-container {
   position: absolute;
   top: calc(100% - 5px);
