@@ -1,6 +1,6 @@
 {{ $filter := .Get "filter"}}
 {{ range $allEvents := .Site.Data.upcoming_events }}
-  <section class="px-4 py-2 mt-9 bg-neutral-100 dark:bg-neutral-700">
+  <section class="px-4 py-2 mt-9 mb-9 bg-neutral-100 dark:bg-neutral-700">
     <h2 class="my-0">Upcoming Events!</h2>
     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
       {{ range sort $allEvents ".date" "asc" }}

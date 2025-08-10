@@ -12,7 +12,7 @@ copyright = "SVNA 2025"
 
 enableRobotsTXT = true
 
-summaryLength = 0
+summaryLength = 1
 
 googleAnalytics = "G-ZFKBYCS9YM"
 

@@ -9,5 +9,6 @@ feature = "*6_06*"
     name = "June 2025"
 +++
 
+<!--more-->
 
 {{< gallery >}}
