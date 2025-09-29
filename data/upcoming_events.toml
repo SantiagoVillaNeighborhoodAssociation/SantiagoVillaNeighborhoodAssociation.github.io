@@ -67,6 +67,7 @@ name = "September Coffee Klatsch ☕"
 [[event]]
 date = 2025-10-11T09:30:00-08:00
 name = "October Coffee Klatsch ☕"
+canceled = ""
 
 [[event]]
 date = 2025-10-31T17:00:00-08:00
