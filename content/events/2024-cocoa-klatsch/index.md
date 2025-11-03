@@ -8,7 +8,6 @@ showBreadcrumbs = true
 feature = "*_26*"
 cover = "*_26*"
 summary = "We had 9 different cocoa options... All hot and delicious."
-weight = 2
 
 [menus.main]
     parent = "Events"

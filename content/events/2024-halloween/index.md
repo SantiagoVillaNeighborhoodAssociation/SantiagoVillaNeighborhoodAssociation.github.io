@@ -10,12 +10,12 @@ summary = "The experiment was a sorcerous success"
 weight = 5
 
 aliases = [
-    '/halloween',
-    '/Halloween',
-    '/halloween-event',
-    '/Halloween-event',
-    '/Halloween-Event',
-    '/Halloween-party',
+    '/halloween-2024',
+    '/Halloween-2024',
+    '/halloween-event-2024',
+    '/Halloween-event-2024',
+    '/Halloween-Event-2024',
+    '/Halloween-party-2024',
 ]
 
 [menu.main]
